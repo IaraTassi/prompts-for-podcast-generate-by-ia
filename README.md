@@ -21,7 +21,12 @@
 </p>
 
 <p align="center">
-    preview do podcast
+   <audio >
+  <a href="output/podcast-pixel-e-ponto.MP3">link to the audio</a>
+  <source src="output/podcast-pixel-e-ponto.MP3" type="audio/mp3" />
+   preview do podcast
+</audio>
+ 
 </p>
 
 <div align="center">
