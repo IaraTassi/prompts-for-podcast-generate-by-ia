@@ -22,7 +22,7 @@
 
 <p align="center">
    <audio >
-  <a href="output/podcast-pixel-e-ponto.MP3">link to the audio</a>
+<!--   <a href="output/podcast-pixel-e-ponto.MP3">link to the audio</a> -->
   <source src="output/podcast-pixel-e-ponto.MP3" type="audio/mp3" />
    preview do podcast
 </audio>
@@ -35,7 +35,8 @@
 
 <br>
 
-> ℹ️ **NOTE:** Este é um repositório desenvolvido durante o Bootcamp Santander 2024.
+> ℹ️ **NOTE:** Este repositório foi criado para o desafio "
+Criando um Podcast com IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
